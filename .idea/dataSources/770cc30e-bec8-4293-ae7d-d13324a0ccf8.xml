@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="MySQL - nba@localhost">
+  <database-model serializer="dbm" dbms="MARIADB" family-id="MARIADB" format-version="4.17">
+    <root id="1">
+      <ServerVersion>10.4.8</ServerVersion>
+      <DefaultEngine>InnoDB</DefaultEngine>
+      <DefaultCasing>lower/lower</DefaultCasing>
+    </root>
+    <schema id="2" parent="1" name="actividad1">
+      <Collation>utf8mb4_general_ci</Collation>
+    </schema>
+    <schema id="3" parent="1" name="bbdd_1">
+      <Collation>latin1_spanish_ci</Collation>
+    </schema>
+    <schema id="4" parent="1" name="bbdd_manejo">
+      <Collation>latin1_spanish_ci</Collation>
+    </schema>
+    <schema id="5" parent="1" name="bdpruebas">
+      <Collation>utf8mb4_general_ci</Collation>
+    </schema>
+    <schema id="6" parent="1" name="coches">
+      <Collation>latin1_spanish_ci</Collation>
+    </schema>
+    <schema id="7" parent="1" name="concesionario">
+      <Collation>latin1_spanish_ci</Collation>
+    </schema>
+    <schema id="8" parent="1" name="creacion1">
+      <Collation>latin1_spanish_ci</Collation>
+    </schema>
+    <schema id="9" parent="1" name="creacion2">
+      <Collation>latin1_spanish_ci</Collation>
+    </schema>
+    <schema id="10" parent="1" name="creacion3">
+      <Collation>latin1_spanish_ci</Collation>
+    </schema>
+    <schema id="11" parent="1" name="empleados_departamentos">
+      <Collation>utf8mb4_general_ci</Collation>
+    </schema>
+    <schema id="12" parent="1" name="empresa">
+      <Collation>latin1_spanish_ci</Collation>
+    </schema>
+    <schema id="13" parent="1" name="examen2">
+      <Collation>utf8mb4_general_ci</Collation>
+    </schema>
+    <schema id="14" parent="1" name="information_schema">
+      <Collation>utf8_general_ci</Collation>
+    </schema>
+    <schema id="15" parent="1" name="intento1">
+      <Collation>utf8mb4_general_ci</Collation>
+    </schema>
+    <schema id="16" parent="1" name="intento2">
+      <Collation>utf8mb4_general_ci</Collation>
+    </schema>
+    <schema id="17" parent="1" name="jardineria">
+      <Collation>latin1_spanish_ci</Collation>
+    </schema>
+    <schema id="18" parent="1" name="manejo_datos">
+      <Collation>latin1_spanish_ci</Collation>
+    </schema>
+    <schema id="19" parent="1" name="motos">
+      <Collation>latin1_spanish_ci</Collation>
+    </schema>
+    <schema id="20" parent="1" name="mydb">
+      <Collation>utf8_general_ci</Collation>
+    </schema>
+    <schema id="21" parent="1" name="mysql">
+      <Collation>utf8mb4_general_ci</Collation>
+    </schema>
+    <schema id="22" parent="1" name="nba">
+      <Current>1</Current>
+      <Collation>utf8mb4_general_ci</Collation>
+    </schema>
+    <schema id="23" parent="1" name="nueva2">
+      <Collation>latin1_spanish_ci</Collation>
+    </schema>
+    <schema id="24" parent="1" name="performance_schema">
+      <Collation>utf8_general_ci</Collation>
+    </schema>
+    <schema id="25" parent="1" name="phpmyadmin">
+      <Collation>utf8_bin</Collation>
+    </schema>
+    <schema id="26" parent="1" name="prueba1">
+      <Collation>latin1_spanish_ci</Collation>
+    </schema>
+    <schema id="27" parent="1" name="tabla1">
+      <Collation>latin1_spanish_ci</Collation>
+    </schema>
+    <schema id="28" parent="1" name="test">
+      <Collation>latin1_swedish_ci</Collation>
+    </schema>
+    <schema id="29" parent="1" name="tran_bbdd">
+      <Collation>latin1_spanish_ci</Collation>
+    </schema>
+    <schema id="30" parent="1" name="videojuegos">
+      <Collation>utf8mb4_general_ci</Collation>
+    </schema>
+  </database-model>
+</dataSource>
